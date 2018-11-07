@@ -5,7 +5,8 @@ legacyId: 4402
 ---
 # File Upload Control
 This section describes the capabilities provided by the File Upload element.
-
+   
+   
 ![ASPxUploadControl-Overview](../images/img7475.png)
 * [Uploading a Single File](file-upload-control/uploading-a-single-file.md)
 * [Uploading Multiple Files](file-upload-control/uploading-multiple-files.md)
